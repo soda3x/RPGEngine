@@ -1,0 +1,27 @@
+{
+    "name":"",
+    "role":"",
+    "portrait":"",
+    "lifepath":{
+        "background":[],
+        "motivation":[],
+        "goals":[],
+        "friends":[],
+        "enemies":[],
+        "romance":[],
+        "personality":[]
+    },
+    "stats": {
+        "int":0,
+        "ref":0,
+        "dex":0,
+        "tech":0,
+        "cool":0,
+        "will":0,
+        "luck":0,
+        "move":0,
+        "body":0,
+        "emp":0
+    },
+    "skills": []
+}
